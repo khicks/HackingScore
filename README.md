@@ -1,4 +1,4 @@
 HackingScore
 ============
 
-Scoring engine for capture-the-flag challenge
+Scoring engine for capture-the-flag challenge.

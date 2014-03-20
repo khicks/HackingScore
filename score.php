@@ -88,7 +88,7 @@ foreach ($uid_list as $contestant_uid)
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Message Center</title>
+    <title>Score Breakdown</title>
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
 </head>
 <body style="background:#CCC">
